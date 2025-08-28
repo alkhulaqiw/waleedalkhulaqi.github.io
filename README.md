@@ -1,1 +1,1 @@
-# waleedalkhulaqi.github.io
+waleedalkhulaqi.com
