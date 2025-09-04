@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://waleedalkhulaqi.website/sitemap.xml
+
+# Disallow private or admin folders (if any)
+# Disallow: /admin/
+# Disallow: /private/
+# Disallow: /images/private/
